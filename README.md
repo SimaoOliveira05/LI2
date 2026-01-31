@@ -6,6 +6,7 @@ A bot created for a university project that plays a specific game of cards creat
 ## Grade
 
 **Final Grade:** 18 / 20 ⭐
+
 And secured third place in a tournament featuring bots created by both Software Engineering and Computer Science students!
 
 ## Authors
